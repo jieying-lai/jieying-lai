@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=b8e2f2&height=180&section=header&text=Hi%20there%20👋&fontSize=30&fontAlignY=40&fontColor=10375c&desc=Software%20Engineering%20Student%20@%20UTAR&descFontSize=16&descAlignY=62&descColor=2b5876" width="100%" />
 
-  <a href="https://www.linkedin.com/in/jie-ying-lai-3b2a1b3aa/" target="_blank">
+  <a href="https://www.linkedin.com/in/jieying4477/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-3a86c8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
