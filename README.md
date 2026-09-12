@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hi%20there%20👋&fontSize=30&fontAlignY=40&desc=Software%20Engineering%20Student%20@%20UTAR&descFontSize=16&descAlignY=62" width="100%" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,15,24&height=180&section=header&text=Hi%20there%20👋&fontSize=30&fontAlignY=40&desc=Software%20Engineering%20Student%20@%20UTAR&descFontSize=16&descAlignY=62" width="100%" />
 
   <a href="https://www.linkedin.com/in/jie-ying-lai-3b2a1b3aa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-4A90E2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
@@ -28,6 +29,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jieying47-ui&show_icons=true&theme=radical&hide_border=true" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jieying47-ui&layout=compact&theme=radical&hide_border=true" height="140" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jieying47-ui&show_icons=true&theme=nord&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jieying47-ui&layout=compact&theme=nord&hide_border=true" height="150" />
 </div>
